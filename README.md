@@ -16,5 +16,5 @@ Edit file "pom.xml":
 
 # Run
 ```
- java -jar <jar_file_path>/rectangleanalyzer-0.1.jar RunnableMain "<input_file_path>/input.json" "<output_file_path>/output_1.txt"
+ java -jar <jar_file_path>/rectangleanalyzer-0.1-jar-with-dependencies.jar "<input_file_path>/input.json" "<output_file_path>/output_1.txt"
 ```
