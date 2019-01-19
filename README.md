@@ -5,7 +5,7 @@ A sample application to detect overlapping area on layered rectangles
 # Compile
 ## Using Maven
 ### Check maven version
-```mvn -version``
+```mvn -version```
 ### Customize .m2 repository folder
 Edit file "pom.xml":
 ```<outputDirectory>${user.home}/.m2/repository/com/codingchallenge/core/rectangleanalyzer/${project.version}/```
